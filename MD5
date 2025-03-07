@@ -1,10 +1,13 @@
-ff0f9d17506296d2be2ecdf63976987d *DESCRIPTION
-11d7c02701a5e11896b18f8e4a0fbfd1 *NAMESPACE
-02ea3e0d67621cf5cd4941ab051f3939 *NEWS
-000818be460a07d8518562ab915195c3 *R/tests.R
+3e658ccd4ec1136cd44a1d1701afe248 *DESCRIPTION
+4e047484c18f0b3c1e57dd587bb8b992 *NAMESPACE
+460af35cb4bcc830d74acccff419e595 *NEWS
+8b66595d29c35c2af9c8b703f35b23ae *R/RcppExports.R
+1d1a0dede4418a8c76e802864019d78d *R/onUnload.R
+eaca121be9a7df9dcfb62eed7b356242 *R/tests.R
 b54db8794555342c4feee5fe0b1b8f5b *build/partial.rdb
 9bd56b47e14d523dd8e24086883096d4 *data/forecasts.RData
 892d95959018d6b0c2e0287109d453e7 *inst/CITATION
+c13bd4f117d53c06f003212555a81e88 *inst/include/pEPA.h
 a49ba7f61fca4c0c9c360420ddd039d4 *man/csc.C1.test.Rd
 e668c67ba69b3f111461d5428cc32618 *man/csc.C3.test.Rd
 dc1d7f0953bb119e5bfc11fc882dbf04 *man/csc.test.Rd
@@ -14,3 +17,7 @@ c9688944f80fce9c638c7cd3df1c3871 *man/pool_av.S3.test.Rd
 74bcf1f663ae61f32ab7f71dc2d3f472 *man/pool_av.test.Rd
 71c34dada95c278a5fe5e890404eab86 *man/predicted.Rd
 4e758dfa1cd8dd821d023a6b4cca15f5 *man/tc.test.Rd
+079da4fc5c02b32c74f8889e5051ad13 *src/Makevars
+079da4fc5c02b32c74f8889e5051ad13 *src/Makevars.win
+0ad21e8853cf5649c3e3650e04a374fa *src/RcppExports.cpp
+2eaf634e62b37ca12473064daaad96cc *src/sig.cpp

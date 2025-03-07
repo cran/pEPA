@@ -1,9 +1,11 @@
 Package: pEPA
 Type: Package
 Title: Tests of Equal Predictive Accuracy for Panels of Forecasts
-Version: 1.0
+Version: 1.2
 Depends: R (>= 2.10)
-Date: 2024-07-07
+Imports: Rcpp
+LinkingTo: Rcpp, RcppArmadillo
+Date: 2025-03-07
 Authors@R: person("Krzysztof", "Drachal", role = c("aut","cre"), email="kdrachal@wne.uw.edu.pl", comment = "Faculty of Economic Sciences, University of Warsaw, Poland")
 Author: Krzysztof Drachal [aut, cre] (Faculty of Economic Sciences, University
     of Warsaw, Poland)
@@ -14,7 +16,7 @@ LazyData: TRUE
 URL: https://CRAN.R-project.org/package=pEPA
 Note: Research funded by the grant of the National Science Centre,
         Poland, under the contract number DEC-2018/31/B/HS4/02021.
-NeedsCompilation: no
-Packaged: 2024-07-07 13:49:30 UTC; Krzysiek
+NeedsCompilation: yes
+Packaged: 2025-03-07 19:58:07 UTC; Krzysiek
 Repository: CRAN
-Date/Publication: 2024-07-09 15:50:14 UTC
+Date/Publication: 2025-03-07 20:30:01 UTC
